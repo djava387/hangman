@@ -1,4 +1,4 @@
-guess = input('Enter a single letter')
+guess = input('Enter a single letter ')
 print(f'Your letter is {guess}')
 
 if len(guess)==1 and guess.isalpha():
