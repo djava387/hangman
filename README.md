@@ -1,4 +1,4 @@
-## Milestone 2: Gama Variables
+## Milestone 2: Game Variables
 The  code creates a guessing game where the user has to input a letter. If the letter is valid, the code will print "Good guess!". Otherwise, it will print "Oops! That is not a valid input."
 
  Assigning input to variable
